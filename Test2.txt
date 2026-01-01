@@ -1,0 +1,2 @@
+I am first add this text2 file and then do commit 
+then again i will revert back this 
